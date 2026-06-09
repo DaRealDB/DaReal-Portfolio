@@ -1,12 +1,10 @@
 "use client";
 
-import { motion, useFrame, useMotionValue, useSpring } from "framer-motion";
+import { motion, useMotionValue } from "framer-motion";
 import { useEffect, useState, useRef } from "react";
 import {
-  SiCsharp,
   SiDotnet,
   SiGit,
-  SiJava,
   SiJavascript,
   SiPython,
   SiReact,

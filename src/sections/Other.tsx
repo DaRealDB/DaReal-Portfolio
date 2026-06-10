@@ -47,10 +47,10 @@ export function Other() {
         >
           <h2 className="mb-4 px-2 text-3xl font-bold text-pretty sm:text-5xl md:text-6xl">
             More{" "}
-            <span className="text-gradient-shimmer">Sections</span>
+            <span className="text-gradient-shimmer">Additional Information</span>
           </h2>
           <p className="mx-auto max-w-2xl px-3 text-base text-(--muted) sm:text-lg md:text-xl">
-            Keep these cards or replace them with your own pages.
+           Check out these additional informations and connect with me!
           </p>
         </motion.div>
 

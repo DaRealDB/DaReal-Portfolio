@@ -55,7 +55,7 @@ export function Hero() {
           </ul>
           <div className="mt-5 grid grid-cols-3 gap-2 border-t border-white/10 pt-4 text-center">
             <div>
-              <p className="text-lg font-bold text-(--foreground)">3</p>
+              <p className="text-lg font-bold text-(--foreground)">5</p>
               <p className="text-[10px] uppercase tracking-wider text-(--muted)">Projects</p>
             </div>
             <div>

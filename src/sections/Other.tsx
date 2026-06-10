@@ -81,11 +81,7 @@ export function Other() {
                   </h3>
                   <p className="px-1 text-xs text-(--muted) sm:text-sm">{item.desc}</p>
                 </div>
-                <div
-                  className={`bg-linear-to-br ${item.color} mt-2 bg-clip-text text-sm font-semibold text-transparent transition-transform duration-300 group-hover:translate-x-2`}
-                >
-                  Explore
-                </div>
+
               </div>
             </motion.a>
           ))}

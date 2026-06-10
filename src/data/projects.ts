@@ -43,7 +43,7 @@ export const projects: Project[] = [
     title: "Networking & Infrastructure Configuration",
     description: "Designed and deployed a segmented enterprise network with VLANs, inter-VLAN routing, and SSH-secured remote administration across 10+ virtual nodes.",
     tags: ["Cisco Packet Tracer", "CLI", "SSH", "Networking"],
-    github: "https://github.com/DaRealDB",
+    github: "https://github.com/DaRealDB/Networking-Infrastructure-Configuration",
     featured: true,
     deviceType: "desktop",
     bgColor: "bg-linear-to-br from-blue-500/90 to-cyan-500/90",
